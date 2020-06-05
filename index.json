@@ -1,5 +1,6 @@
 [
   {
+    "key": "2012-05-nhrc",
     "company": "Environment Canada",
     "role": "IT Support",
     "start": "May 2012",
@@ -8,6 +9,7 @@
     "readtime": 138
   },
   {
+    "key": "2013-11-sed",
     "company": "SED Systems",
     "role": "Dev / Lead",
     "start": "Nov 2013",
@@ -16,6 +18,7 @@
     "readtime": 276
   },
   {
+    "key": "2017-01-vendasta",
     "company": "Vendasta",
     "role": "Dev / Lead",
     "start": "Jan 2017",
@@ -24,6 +27,7 @@
     "readtime": 0
   },
   {
+    "key": "2018-09-bxt",
     "company": "Brand X Technologies",
     "role": "Dev / CTO",
     "start": "Sep 2018",
