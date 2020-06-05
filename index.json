@@ -1,0 +1,34 @@
+[
+  {
+    "company": "Environment Canada",
+    "role": "IT Support",
+    "start": "May 2012",
+    "end": "Aug 2012",
+    "tags": ["Tech Support", "Co-op", "R", "Debugging", "Communication"],
+    "readtime": 138
+  },
+  {
+    "company": "SED Systems",
+    "role": "Dev / Lead",
+    "start": "Nov 2013",
+    "end": "Jan 2017",
+    "tags": ["Java", "C++", "Bash", "SQL", "SiriusXM", "Hardware", "SRE", "Testing", "Management", "Kanban", "Waterfall"],
+    "readtime": 276
+  },
+  {
+    "company": "Vendasta",
+    "role": "Dev / Lead",
+    "start": "Jan 2017",
+    "end": "Aug 2018",
+    "tags": ["Python", "Go", "Javascript", "Typescript", "Angular", "MySQL", "RXJS", "Kubernetes", "Docker", "Google Cloud", "Datadog", "Billing", "SRE", "Agile", "Remote", "API"],
+    "readtime": 0
+  },
+  {
+    "company": "Brand X Technologies",
+    "role": "Dev / CTO",
+    "start": "Sep 2018",
+    "end": "May 2020",
+    "tags": ["C++", "Go", "Typescript", "Postgres", "React", "Docker", "Google Cloud", "Stripe", "Twilio", "SendGrid", "Mapbox", "Neo4J", "Datadog", "Particle", "Engineering", "IoT", "Smart Agriculture", "Firmware"],
+    "readtime": 0
+  }
+]
