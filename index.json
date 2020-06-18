@@ -26,7 +26,8 @@
     "start": "Jan 2017",
     "end": "Aug 2018",
     "tags": ["Python", "Go", "Javascript", "Typescript", "Angular", "MySQL", "RXJS", "Kubernetes", "Docker", "Google Cloud", "Datadog", "Billing", "SRE", "Agile", "Remote", "API"],
-    "readtime": 390
+    "readtime": 390,
+    "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/vendasta.png"
   },
   {
     "key": "2018-09-bxt",
@@ -35,6 +36,7 @@
     "start": "Sep 2018",
     "end": "May 2020",
     "tags": ["C++", "Go", "Typescript", "Postgres", "React", "Docker", "Google Cloud", "Stripe", "Twilio", "SendGrid", "Mapbox", "Neo4J", "Datadog", "Particle", "Engineering", "IoT", "Smart Agriculture", "Firmware", "Agile", "Startup"],
-    "readtime": 396
+    "readtime": 396,
+    "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/bxt.png"
   }
 ]
