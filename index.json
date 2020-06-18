@@ -15,7 +15,8 @@
     "start": "Nov 2013",
     "end": "Jan 2017",
     "tags": ["Java", "C++", "Bash", "SQL", "SiriusXM", "Hardware", "SRE", "Testing", "Management", "Kanban", "Waterfall"],
-    "readtime": 276
+    "readtime": 276,
+    "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/sed.png"
   },
   {
     "key": "2017-01-vendasta",
