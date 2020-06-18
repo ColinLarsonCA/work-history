@@ -6,7 +6,8 @@
     "start": "May 2012",
     "end": "Aug 2012",
     "tags": ["Tech Support", "Co-op", "R", "Debugging", "Communication"],
-    "readtime": 138
+    "readtime": 138,
+    "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/nhrc.png"
   },
   {
     "key": "2013-11-sed",
