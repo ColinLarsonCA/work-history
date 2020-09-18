@@ -38,5 +38,15 @@
     "tags": ["C++", "Go", "Typescript", "Postgres", "React", "Docker", "Google Cloud", "Stripe", "Twilio", "SendGrid", "Mapbox", "Neo4J", "Datadog", "Particle", "Engineering", "IoT", "Smart Agriculture", "Firmware", "Agile", "Startup"],
     "readtime": 396,
     "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/bxt.png"
+  },
+    {
+    "key": "2020-07-vendasta",
+    "company": "Vendasta",
+    "role": "Dev",
+    "start": "Jul 2020",
+    "end": "current",
+    "tags": ["Go", "Javascript", "Typescript", "Angular", "Spanner", "RXJS", "Kubernetes", "Docker", "Google Cloud", "Datadog", "SRE", "Agile", "Remote", "API"],
+    "readtime": 0,
+    "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/vendasta.png"
   }
 ]
