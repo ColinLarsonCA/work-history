@@ -44,7 +44,6 @@
     "company": "Vendasta",
     "role": "Dev",
     "start": "Jul 2020",
-    "end": "current",
     "tags": ["Go", "Javascript", "Typescript", "Angular", "Spanner", "RXJS", "Kubernetes", "Docker", "Google Cloud", "Datadog", "SRE", "Agile", "Remote", "API"],
     "readtime": 0,
     "logo": "https://raw.githubusercontent.com/ColinLarsonCA/work-history/master/vendasta.png"
